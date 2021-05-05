@@ -9,11 +9,12 @@ Este Sitio será Actualizado cada Cierto tiempo para Garantizar el Funcionamient
 Es IMPORTANTE No cambiar NINGUN TIPO DE INFORMACIÓN Al estar Dentro, Su uso es Solo Hacer un BYPASS en la red en caso de que esto Suceda :)
 
 ###  •|i|• Obten una Cuenta ¡+! ].[
-         **Disponibles**
-            **6065**
-            
-       **Ultima Revision**
-       **4-5-2021 - 19:29**
+   **Disponibles**
+      **6065**
+
+  **Ultima Revision**
+ **4-5-2021 - 19:29**
+
 ```
 007wooj@gmail.com:Nemesis98
 0911smk@gmail.com:0911smkK
