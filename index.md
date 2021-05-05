@@ -2,7 +2,18 @@
 Es simple, Al descargar la APP o Ejecutable se deberan poner las Credenciales, Estas mismas se Veran como CORREO:CONTRASEÑA de la Siguiente Manera
 "micorreo@gmail.com:micontraseña123"
 
-### Obten una Cuenta aqui Debajo
+### ¿Que Puedo hacer si esto no Funciona?
+Este Sitio será Actualizado cada Cierto tiempo para Garantizar el Funcionamiento de estas mismas.
+
+### AVISO IMPORTANTE
+Es IMPORTANTE No cambiar NINGUN TIPO DE INFORMACIÓN Al estar Dentro, Su uso es Solo Hacer un BYPASS en la red en caso de que esto Suceda :)
+
+###  •|i|• Obten una Cuenta ¡+! ].[
+         **Disponibles**
+            **6065**
+            
+       **Ultima Revision**
+       **4-5-2021 - 19:29**
 ```
 007wooj@gmail.com:Nemesis98
 0911smk@gmail.com:0911smkK
