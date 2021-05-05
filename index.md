@@ -3,7 +3,7 @@ Es simple, Al descargar la APP o Ejecutable se deberan poner las Credenciales, E
 "micorreo@gmail.com:micontraseña123"
 
 ### Obten una Cuenta aqui Debajo
-
+```
 007wooj@gmail.com:Nemesis98
 0911smk@gmail.com:0911smkK
 0whispersnow@gmail.com:CONTquan69
@@ -6069,3 +6069,4 @@ zx.zerox.92@gmail.com:Zx7915880
 zzarrow@gmail.com:Zz0210098
 zzhengwen@hotmail.co.uk:Coldplay123
 zzhu321@hotmail.com:Death321
+```
