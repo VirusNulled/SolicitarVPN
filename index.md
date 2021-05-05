@@ -2,10 +2,12 @@
 
 ### ¿Como Iniciar Sesion?
 Es simple, Al descargar la APP o Ejecutable se deberan poner las Credenciales, Estas mismas se Veran como CORREO:CONTRASEÑA de la Siguiente Manera
-"micorreo@gmail.com:micontraseña123"
+"correo123@gmail.com:contraseña123"
 
 ### ¿Que Puedo hacer si esto no Funciona?
 Este Sitio será Actualizado cada Cierto tiempo para Garantizar el Funcionamiento de estas mismas.
+
+En caso de no funcionar, Estas mismas seran retiradas lo antes posible
 
 ### AVISO IMPORTANTE
 Es IMPORTANTE No cambiar NINGUN TIPO DE INFORMACIÓN Al estar Dentro, Su uso es Solo Hacer un BYPASS en la red en caso de que esto Suceda :)
